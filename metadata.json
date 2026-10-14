@@ -1,0 +1,7 @@
+{
+  "name": "Phone Timeline",
+  "description": "Comprehensive phone activity tracker recording texts, app access history, scrolling sessions, screen time analytics, and AI visual timeline recaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
